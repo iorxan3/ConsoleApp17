@@ -21,12 +21,12 @@
         }
         public void YenidenDoldurma()
         {
-            if (GunCount == 32)
+            if (GunCount == 60)
             {
                 Console.WriteLine("Doludur..");
                 return;
             }
-            GunCount = 32;
+            GunCount = 60;
         }
         public void Atis33()
         {
